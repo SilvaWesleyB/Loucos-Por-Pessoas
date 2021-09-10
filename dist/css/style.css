@@ -10,7 +10,13 @@ and open the template in the editor.
 
 /* GLOBAL STYLES
 -------------------------------------------------- */
-/* Padding below the footer and lighter body text */
+/* 
+#F22816 -> Vermelho
+#F2A71B -> Laranja
+#58BF49 -> Verde
+#418FBF -> Azul
+#F22294 -> Rosa
+*/
 
 body {
     padding-top: 3rem;
@@ -120,4 +126,8 @@ body {
         margin-bottom: 1rem;
         border-bottom: 1px solid #dee2e6 !important;
     }
+}
+
+.subtext{
+    color: #F22294 !important;
 }
