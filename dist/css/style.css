@@ -126,8 +126,30 @@ body {
         margin-bottom: 1rem;
         border-bottom: 1px solid #dee2e6 !important;
     }
+    .first-slide{
+        content: url('../img/img0003_1.png');
+    } 
+    .second-slide{
+        content: url('../img/img0004_1.png');
+    } 
 }
 
 .subtext{
     color: #F22294 !important;
+}
+
+.btn-primary{
+    background-color: #418FBF!important;
+    font-weight: bold !important;
+    border-color: #418FBF!important;
+}
+
+.carousel-caption > h1 {
+    color: #F22816;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #F22816;
+}
+
+.desfoco{
+   opacity: 0.5;
 }
